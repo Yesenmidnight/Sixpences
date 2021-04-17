@@ -37,8 +37,13 @@ An open source project, about the independent game "Sibyl and Sixpence"
 《女巫与六便士》是一部讲述爱情观和人生经历的短篇视觉小说。在STEAM与TapTap都有发布。
 
 STEAM链接：https://store.steampowered.com/app/982580/_the_sibyl_and_sixpence/
+
 TapTap链接：https://www.taptap.com/app/148745
+
 曾获得2019年Indie Prize 全球独立游戏开发者大会 最佳叙事提名，
+
 截止2020年2月，移动端下载量8.9万次，PC付费购买人数1.5万人，
+
 截止2021年2月，移动端下载量17万次，PC付费购买人数2.3万人，
+
 截止2021年4月，移动端下载量20万次，PC付费购买人数2.33万人。
