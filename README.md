@@ -26,10 +26,13 @@ An open source project, about the independent game "Sibyl and Sixpence"
 请注意，这是一个非强制项。我们建议您这么做，但是这并非强制性的。
 7. 吃了就睡工作室、夜神不说话、汪汪心高、トリアコンタン、暨南京市文火科技有限公司拥有对违法行为的追责权利。
 8. 祝愿每个游戏爱好者，都能做出自己喜欢的作品。
+
 夜神不说话
+
 2020.2.10
 
 ======================
+
 关于《女巫与六便士》：
         《女巫与六便士》是一部讲述爱情观和人生经历的短篇视觉小说。在STEAM与TapTap都有发布。
 STEAM链接：https://store.steampowered.com/app/982580/_the_sibyl_and_sixpence/
